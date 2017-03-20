@@ -1,1 +1,5 @@
 INPUT_FILE_PATH = '../Resources/Input.csv'
+STATUS_CLOSED = 'closed'
+STATUS_OPEN = 'open'
+STOCK_SELL = 'Sell'
+STOCK_BUY = 'Buy'
